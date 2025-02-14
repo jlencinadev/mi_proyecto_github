@@ -1,1 +1,2 @@
 ESTE ES EL EJERCICIO 2 DE GITHUB
+Vamos a modificar el archivo para el siguiente paso que nos pide el ejercicio
